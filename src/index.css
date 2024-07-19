@@ -38,6 +38,9 @@ body {
   ::-webkit-scrollbar-thumb:hover {
     background: rgb(79, 78, 76);
   }
+  ::-webkit-scrollbar{
+    display: none;
+  }
   .hei::-webkit-scrollbar{
     display: none;
   }

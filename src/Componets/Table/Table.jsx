@@ -72,7 +72,7 @@ export default function Tablemain() {
 
   return (
     <Paper sx={{ width: '100%', overflow: 'hidden',   }}>
-      <TableContainer sx={{ maxHeight: 440,overflowX:'auto', overflowY:'' }} className='hei'>
+      <TableContainer sx={{ maxHeight: 440,overflowX:'auto' }} className='hei'>
         <Table stickyHeader aria-label="sticky table">
           <TableHead>
             <TableRow>
